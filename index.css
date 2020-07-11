@@ -91,22 +91,13 @@
 }
 
 .circle-shape1{
-  /* position: absolute;
-  width: 330px;
-  height: 650px;
-  left: 10px;
-  top: 420px;
-  background: #C4C4C4;
-  border-radius: 106px; */
-
   position: absolute;
-width: 1050px;
-height: 385px;
-left: 145px;
-top: 416px;
-
-background: #C4C4C4;
-border-radius: 106px;
+  width: 1050px;
+  height: 385px;
+  left: 145px;
+  top: 416px;
+  background: #C4C4C4;
+  border-radius: 106px;
 
 }
 .about{
@@ -120,4 +111,17 @@ border-radius: 106px;
   text-align: center;  
   color: #000000; 
   } 
+
+  .work{
+    position: absolute;
+    width: 323px;
+    height: 63px;
+    left: 520px;
+    top: 800px;  
+    font-family: Roboto;    
+    font-size: 16px;
+    line-height: 14px;
+    text-align: center;  
+  
+  }
 

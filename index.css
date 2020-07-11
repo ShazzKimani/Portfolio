@@ -1,0 +1,46 @@
+.navhome{
+  position: absolute;
+  width: 55px;
+  height: 17px;
+  left: 530px;
+  top: 48px;
+  font-family: "Courier New", Courier, monospace;
+  font-style: oblique;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 20px;
+  color: #000000;
+
+}
+
+
+.navabout{
+  position: absolute;
+  width: 100px;
+  height: 17px;
+  left: 630px;
+  top: 48px;
+  font-family: "Courier New", Courier, monospace;
+  font-style: oblique;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 20px;
+  color: #000000;
+
+}
+
+.navcontact{
+  position: absolute;
+  width: 55px;
+  height: 17px;
+  left: 770px;
+  top: 48px;
+  font-family: "Courier New", Courier, monospace;
+  font-style: oblique;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 20px;
+  color: #000000;
+
+}
+

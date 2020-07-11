@@ -92,26 +92,21 @@
 .circle-shape1{
 position: absolute;
 width: 330px;
-height: 730px;
+height: 650px;
 left: 10px;
 top: 420px;
-
 background: #C4C4C4;
 border-radius: 106px;
+
 }
-
 .about{
-width: 304px;
-height: 487px;
-left: 250px;
-top: 1000px;
-
-font-family: "Courier New", Courier, monospace;
-font-style: normal;
-font-weight: normal;
-font-size: 14px;
-/* line-height: 14px; */
-text-align: center;
-
-color: #000000; 
-} 
+  padding: 10px;
+  left: 250px;
+  top: 1000px;  
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  text-align: center;  
+  color: #000000; 
+  } 

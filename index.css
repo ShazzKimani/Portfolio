@@ -125,3 +125,20 @@
   
   }
 
+  .novaya{
+    position: absolute;
+    width: 327px;
+    height: 109px;
+    left: 90px;
+    top: 910px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+  
+  }
+  
+

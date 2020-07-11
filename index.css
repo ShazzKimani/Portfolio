@@ -147,6 +147,20 @@
     top: 1000px;
   
   }
+
+  .button{
+    position: absolute;
+    width: 59px;
+    height: 14px;
+    left: 190px;
+    top: 1230px;
+    font-family: Roboto;
+    font-size: 12px;
+    background-color: rgb(55, 124, 204);
+    padding: 12px 30px;
+    text-align: center;
+  
+  }
   
   
 

@@ -1,5 +1,5 @@
 html{
-  background-image: url(/Images/comp1.jpg);
+  background-image: url(Images/comp1.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -30,7 +30,6 @@ html{
   font-weight: bold;
   font-size: 20px;
   line-height: 20px;
-  color: #000000;
 
 }
 
@@ -45,7 +44,6 @@ html{
   font-weight: bold;
   font-size: 20px;
   line-height: 20px;
-  color: #000000;
 
 }
 
@@ -72,7 +70,7 @@ html{
   left: 570px;
   top: 160px;
   border-radius:40px ;
-  background-color: khaki;   
+  background-color: #81086d;   
   padding: 25px 25px;
   -moz-border-radius: 75px;
   -webkit-border-radius: 75px;
@@ -91,7 +89,7 @@ html{
   font-size: 16px;
   line-height: 14px;
   text-align: center;
-  color: #000000;
+  color: lemonchiffon;
 
 }
 
@@ -101,7 +99,7 @@ html{
   height: 385px;
   left: 145px;
   top: 416px;
-  background: #C4C4C4;
+  background:#f388e1;
   border-radius: 106px;
 
 }
@@ -126,7 +124,9 @@ html{
     font-family: Roboto;    
     font-size: 16px;
     line-height: 14px;
-    text-align: center;  
+    text-align: center;
+    color: lemonchiffon;
+  
   
   }
 
@@ -142,7 +142,7 @@ html{
     font-size: 12px;
     line-height: 24px;
     text-align: center;
-    color: #000000;
+    color: lemonchiffon;
   
   }
 
@@ -175,13 +175,13 @@ html{
     top: 910px;
     font-family: Roboto;
     font-size: 12px;
-    text-align: center;  
+    text-align: center; 
+    color: lemonchiffon;
   
   }
 
   .img2{
     position: absolute;
-    width: 358px;
     height: 135px;
     left: 650px;
     top: 1023px;
@@ -209,7 +209,7 @@ html{
     height: 0px;
     left: 0px;
     top: 1350px;
-    border: 1px solid #000000;
+    border: 1px solid #81086d;
   }
 
   .eclypse{
@@ -219,7 +219,7 @@ html{
     left: 600px;
     top: 1303px;
     border-radius: 50%;
-    background: #C4C4C4;
+    background:#81086d;
   }
 
   .eclypse p{
@@ -233,17 +233,17 @@ html{
     text-align: center;
 
   }
-  
-  .contacts{
-    position: absolute;
-    width: 184px;
-    height: 124px;
-    left: 560px;
-    top: 1424px;
-    background: #C4C4C4;
-    box-shadow: 6px 4px 4px rgba(0, 0, 0, 0.38);
-  }
+ 
+  .contacts p{
+    position: absolute;    
+    left: 10px;
+    top: 45px;
+    font-family: Roboto;   
+    font-size: 12px;
+    text-align: center;
 
+  }
+  
 
  
 

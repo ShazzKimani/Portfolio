@@ -12,7 +12,7 @@
 
 * There are no known bugs detected.
 
-## Technologies uses
+## Technologies used
 
 * HTML
 * CSS

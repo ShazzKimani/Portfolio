@@ -212,5 +212,15 @@ html{
     border: 1px solid #000000;
   }
 
+  .eclypse{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 600px;
+    top: 1303px;
+    border-radius: 50%;
+    background: #C4C4C4;
+  }
+
  
 

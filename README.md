@@ -20,8 +20,11 @@
 ## Project setup
 
 * Clone the repository to your pc
+* git clone https://github.com/ShazzKimani/Portfolio.git
 
 ## Live link 
+
+*  https://shazzkimani.github.io/Portfolio/
 ## Contact
 
 * Incase of anything reach out via sharonkimani01@gmail.com

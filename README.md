@@ -6,7 +6,7 @@
 
 ## Project description
 
-* This a portfolio landing page,that describes me and my journey in programming. It also includes work that i have done in my line of career.
+* This is a portfolio landing page,that describes me and my journey in programming. It also includes work that i have done in my line of career.
 
 ## Known bugs
 
